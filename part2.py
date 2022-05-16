@@ -11,3 +11,9 @@ Hunter
 Hunter
 
 '''
+times = int(input("Times to print: "))
+to = 1
+while to <= times:
+  to += 1
+  print("Hunter")
+  
